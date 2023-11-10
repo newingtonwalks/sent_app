@@ -7,6 +7,8 @@ st.markdown("# Welcome to my app!")
 
 st.markdown("### Please enter some text below and press enter!")
 
+st.markdown("### Hi prog2 saxa class!!")
+
 def sent_app(text):
 
     # Extract sentiment
